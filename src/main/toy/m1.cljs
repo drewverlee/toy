@@ -1,4 +1,10 @@
 (ns toy.m1)
 
-(def blah "blah")
+{::d 2}
+
+:toy.m1/d
+
+
+
+
 
