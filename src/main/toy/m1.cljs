@@ -1,5 +1,7 @@
 (ns toy.m1)
 
+:a-change
+
 :toy.m1/x
 ::x
 
@@ -7,5 +9,3 @@
   "great cat"
   [x]
   x)
-
-
